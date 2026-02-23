@@ -1,4 +1,4 @@
-﻿# IT-Level Classifier (PoC)
+﻿# IT-Level Classifier 
 
 Данный проект представляет собой Proof of Concept (PoC) системы автоматической классификации уровня квалификации
 IT-специалистов (Junior, Middle, Senior) на основе данных резюме с сайта hh.ru.
